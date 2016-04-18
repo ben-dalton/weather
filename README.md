@@ -1,6 +1,7 @@
 # Check weather
 
-Gets weather forecast using wunderground api. Allows addition/removal of favorite cities.
+Gets weather forecast using open weather map api. Allows addition/removal of favorite cities.
+[http://openweathermap.com/forecast5](http://openweathermap.com/forecast5)
 
 ##Getting Started###
 
